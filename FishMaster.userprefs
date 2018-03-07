@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="23" Column="23" />
+      <File FileName="Assets/Scripts/WebAttr.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FishMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GoldCollect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Effect/Ef_AutoMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Effect/Ef_AutoRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Effect/Ef_PlayEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainSceneUI.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
